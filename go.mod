@@ -1,4 +1,4 @@
-module dm
+module github.com/Ruzung/dm
 
 go 1.13
 
