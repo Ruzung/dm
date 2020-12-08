@@ -5,7 +5,7 @@
 package dm
 
 import (
-	"dm/util"
+	"github.com/Ruzung/dmutil"
 	"os"
 	"strconv"
 	"strings"

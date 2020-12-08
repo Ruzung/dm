@@ -6,8 +6,8 @@ package dm
 
 import (
 	"bytes"
-	"dm/parser"
-	"dm/util"
+	"github.com/Ruzung/dmparser"
+	"github.com/Ruzung/dmutil"
 	"strconv"
 	"strings"
 )
