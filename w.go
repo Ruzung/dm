@@ -10,7 +10,7 @@ import (
 	"database/sql"
 	"database/sql/driver"
 	"fmt"
-	"github.com/Ruzung/dmutil"
+	"github.com/Ruzung/dm/util"
 	"io"
 	"math/big"
 	"reflect"

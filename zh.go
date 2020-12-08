@@ -6,7 +6,7 @@ package dm
 
 import (
 	"bytes"
-	"github.com/Ruzung/dmutil"
+	"github.com/Ruzung/dm/util"
 	"io"
 	"math/big"
 	"strconv"

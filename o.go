@@ -10,7 +10,7 @@ import (
 	"database/sql"
 	"database/sql/driver"
 	"fmt"
-	"github.com/Ruzung/dmparser"
+	"github.com/Ruzung/dm/parser"
 	"golang.org/x/text/encoding"
 	"sync/atomic"
 )

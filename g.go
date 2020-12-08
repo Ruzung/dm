@@ -6,7 +6,7 @@ package dm
 
 import (
 	"fmt"
-	"github.com/Ruzung/dmutil"
+	"github.com/Ruzung/dm/util"
 	"math"
 	"os"
 	"sort"

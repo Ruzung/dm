@@ -7,7 +7,7 @@ package dm
 
 import (
 	"bytes"
-	"github.com/Ruzung/dmutil"
+	"github.com/Ruzung/dm/util"
 	"time"
 )
 

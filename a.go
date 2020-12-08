@@ -6,7 +6,7 @@ package dm
 
 import (
 	"crypto/tls"
-	"github.com/Ruzung/github.com/Ruzung/dmsecurity"
+	"github.com/Ruzung/dm/security"
 	"net"
 	"strconv"
 	"time"

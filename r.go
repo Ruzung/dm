@@ -8,7 +8,7 @@ import (
 	"context"
 	"database/sql"
 	"database/sql/driver"
-	"github.com/Ruzung/dmi18n"
+	"github.com/Ruzung/dm/i18n"
 	"sync"
 )
 

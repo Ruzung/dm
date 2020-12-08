@@ -8,7 +8,7 @@ import (
 	"context"
 	"database/sql"
 	"database/sql/driver"
-	"github.com/Ruzung/dmutil"
+	"github.com/Ruzung/dm/util"
 	"io"
 	"strings"
 	"time"

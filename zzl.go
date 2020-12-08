@@ -7,7 +7,7 @@ package dm
 
 import (
 	"bufio"
-	"github.com/Ruzung/dmutil"
+	"github.com/Ruzung/dm/util"
 	"io"
 	"os"
 	"runtime"
